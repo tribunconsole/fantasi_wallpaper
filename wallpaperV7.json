@@ -59,49 +59,49 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "nature",
+      "name_category": "Nature",
       "image": "https://blogger.googleusercontent.com/img/a/AVvXsEgu0gEaDwYwfcYtxUI-2X9TVEWYCs2THDEzTj7VqvcK62_GqzpyvK9Bhwn53h3EL5B5dtQCKCXO9IefgGBXMmzHHPXjnyh9oxw-UPbx8U3f_bJ6N0Ity3Cyhwv_vrvs4Gh7Xi4cJr5ozyRSvArwxgYt1wGEbx6-uOo7EXsUBl8yDAxtzLUSi_0ZULTLlg=w900"
 
     },
     {
       "id": 2,
-      "name_category": "animal",
+      "name_category": "Animal",
       "image": "https://blogger.googleusercontent.com/img/a/AVvXsEjlKdIOKcP_4mcy-cMEpXNOEtcsOl5QTiNO6hOMQ3GqSxcAybZnA9d2Qc86o7Iwanh2dufyD2VKoEfWwygAH19S8stu6O39XoN0ym78d_H12l4EVvIBmPrNNnHqne2UrCiBqqLPVpJLBSE5-5VD-AU8VqoOnOu2OFUmJML61B0PbXKDKID5DcmCgtZpag=w900"
 
     },
     {
       "id": 3,
-      "name_category": "aesthetic",
+      "name_category": "Aesthetic",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-FG3iidglecp-_Vfi8ldZF3sY2ya9sVhYqt6-2d-Z2Mup7uIRw9F1oGnKqxO4xRJl0uHsEQigDsjAVPgxWA_4PuCJrziRRwfwoh0CVJ1surES5Yg2S7mWQcmDhdzt1w7y-dnPs9sGMnZ0eaaAnItsFQmaotxSTA3KpOWGTXyIdHoGcSO1LOcVIrBzMg/w900/Fire%20Photoshoot%20(4).jpg"
 
     },
     {
       "id": 4,
-      "name_category": "artistic",
+      "name_category": "Artistic",
       "image": "https://blogger.googleusercontent.com/img/a/AVvXsEhowSVv1AESZhSVK5ay5IKhIpqfv83DCweTcQvmAXp1CXRYx4lUEnK40_LUujxATqKrpLUbYgd_7oYhQeN6d_Zv-3vCB_eORnq96vGqAmlyzGfBNVsf-WGgYGFvnrKtnmEXj8HBwXV6LITQ-oMcoO3QserTgGyV-QBSMzOzqByJVvZm_hVXADOP7wkH-g=w900"
 
     },
     {
       "id": 5,
-      "name_category": "chibi",
+      "name_category": "Chibi",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsGriIHD1hljZkCYPl6I3zpkza9cJkjsZ3DsXyY_IHaHerEP_Yhwcrb0zKSe87DHGHsinjDMXE8t3IFVNZsV5hMgoU6OOAdVdqBrtQswCGFIKyHrOSxIQQrmwIp5BDavtMsmNVre447oggmuImLjbeDXOCEZmK3oqZImjuFJlsAiMhG35_H-LsTV45mw/w900/Adventurer%20Chibi%E2%80%99s%20(3).jpg"
 
     },
     {
       "id": 6,
-      "name_category": "cyborg",
+      "name_category": "Cyborg",
       "image": "https://blogger.googleusercontent.com/img/a/AVvXsEhClCEa68buJeofkugYqCczXYJyYF2mq4AR3XZhZCcEE9bVQP7muTdXIjO_GXTpG6PcXS_v7-N2Qo0RpPb-U5tqjc7VCF5wTz-_dABjpFeY254oJVLY9xsKyoHoM50zr3BSm67GpW3JTtCm_lG9_CX9qVplV12NLNJB9-dSkJjW78OfNV0UEWFikFIWIQ=w900"
 
     },
     {
       "id": 7,
-      "name_category": "fantasy",
+      "name_category": "Fantasy",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHYckPvm0V6IGkfDRXOiGXmwAFCKPGGHFtUpPbUD9_fzodJYp21rssH6JY6f3e4YAvlqLbMKq_9_CMAKTDxnUhm_2Cy5pBFZivOOMkm479hF5N9nMhvLLzzX9vJIDjdzBKGWi4Z-lAYI11ZI9zEpiXXgGE-5KpHd3FAvuAeUCg-7eSsczRrcVcsTbphA/w900/Ethereal%20Quidditch%20Balls%20(2).jpg"
 
     },
     {
       "id": 8,
-      "name_category": "warriors",
+      "name_category": "Warriors",
       "image": "https://blogger.googleusercontent.com/img/a/AVvXsEh59zPkUyavMW_rcprY-CCDTqSrpAsLTxvERPBowxa8NWmAQi4QxU2L5Yt6HFqQyaBUb-DlJHnGsIFdh_cKHF7i_avgEbp7919kBMLwO3BKaVL5dtc6BPOiD7FZm7pbCJ7aR916F4fSIMWX3esuoKvcqv2yY7TIYJbtteNbhnLWRbCKR9_GWD7RFGwLKQ=w900"
 
     }  
@@ -110,52 +110,100 @@
   ],
 
   "Data":
-  [
+  [   
+    {
+      "id":16,
+      "name_category": "Chibi",
+      "title":"ADVENTURER CHIBI’S",
+      "image":"https://blogger.googleusercontent.com/img/a/AVvXsEhl5BePt25qYMGRniFLhuOjB5NZIgSbumAhGIJ7kbR3OhGOwTjPZiznHZIk4QUrKAxSqGyaAXso8dh4FKtUImZ6pJr2jhpAqa41BS5r-tDrLo0osFJVe2oy31lmKCqkCL7T23Uy7RqK3u3vEIJDax5Fwnuhe9GeMKnDCdRMX9qo85mDlcMikaTRbtwSOA=w900"
+    },
+    {
+      "id":15,
+      "name_category": "Chibi",
+      "title":"ADVENTURER CHIBI’S",
+      "image":"https://blogger.googleusercontent.com/img/a/AVvXsEgLuO1svm9u_87j8hM7ayAMuJJT6yEBPv6NlnT4DSDfhuL8QoHGgzPu9YgVOTRsMZclTNxAeMt2dU91g--hvVFoiNj4dF8-8a5LbFMLJ9Kuia5zcWdOtLNseaFXjbxlyFmo35gzzzRjKESeeD3PqaHlBgscPmle-tXGEcVxEiKkiJu0XU7INInpYz0hsg=w900"
+    },
+    {
+      "id":14,
+      "name_category": "Chibi",
+      "title":"ADVENTURER CHIBI’S",
+      "image":"https://blogger.googleusercontent.com/img/a/AVvXsEgSftHOJnAcfVmREGv2KgQ-OOwith5exVgdc9qKF2IW5S40KrfewyRPKzRBlpcLf47juzO-4ej8lYee-qgsJYfiFDOomq_WsmxS5a2Bcjs5Sc60RsEJl0o6KPAkQNBNV6vtYfAyD8ndvRlwmfakUjMzf9mgo2rjp_IifgXuvOzbn4zC5Oe-5zyJrCPAEQ=w900"
+    },
+    {
+      "id":13,
+      "name_category": "Chibi",
+      "title":"ADVENTURER CHIBI’S",
+      "image":"https://blogger.googleusercontent.com/img/a/AVvXsEhhq5tj4cBszdBvH4GB2VIFpj-kLr-GWp75KZXmyhrlPYMXLFK0qX73xUthG0dEZlMk5jFk-Wof9ZAW8kVyaTz2yIX4Ar_tFWzCBkCXd6v_PiFcz8O5FFytWqMKScR3WNaOwL55M9xGriYWTnbRbqvW4EdFmzjfJTTybRUr29mAykq0gL4cE3iKqYr-VQ=w900"
+    },
+    {
+      "id":12,
+      "name_category": "Chibi",
+      "title":"ADVENTURER CHIBI’S",
+      "image":"https://blogger.googleusercontent.com/img/a/AVvXsEgacBV4di4LqfRdQW4d-kJHmRCDQUGT7RhN7Cp0ttiCjcnNyYGyn7PX-y3YTgWA_m9us6f9W0n62OxFakAGxnQjVYegOhg_-uYV74MM-2CZTFl9diBSKSHmWTg9_gxWUaK27MeydL5oH2WDTwIoyv9PCUvfcZfbq6G0qeo_LQekbRl8yi9-EyoqJl7d_A=w900"
+    },
+    {
+      "id":11,
+      "name_category": "Chibi",
+      "title":"ADVENTURER CHIBI’S",
+      "image":"https://blogger.googleusercontent.com/img/a/AVvXsEhnWAjehmdAsS9YZrnqNJjgnCRMnW7DFeITxb24pWjz7SUsJIIEiTAlhgw3LP1RotgmiLchFcKdzxAmboNrfit19qW6V64mQTicqyRmDxbLsrBYH6OY0TC7SzgMcpa_IjKr9t1LEFfV3kUjy03lqsb_JDaBPUn69iTftVffKJa5WSgMBWxN5l4y1_ZVRw=w900"
+    },
+    {
+      "id":10,
+      "name_category": "Chibi",
+      "title":"ADVENTURER CHIBI’S",
+      "image":"https://blogger.googleusercontent.com/img/a/AVvXsEgiHSQApXfA3FnKDWmWJ-qkzBrHEQZtvFaDKjs9-g6yuoVPpkq9xJA6TXzhPaVgPcEsXRMDsGi22DWa4YyUzjFVZydVnPaGqC4pTWTIKP-K5Eb4PCOjgtuNxwJ-H-9Yd9NrGfeHZO6atxOAsBj-g1gwugwGbPexYlZyhyVdCgCgbC68l2iMLgdQ7jLsNg=w900"
+    },
+    {
+      "id":9,
+      "name_category": "Chibi",
+      "title":"ADVENTURER CHIBI’S",
+      "image":"https://blogger.googleusercontent.com/img/a/AVvXsEjivecu2t74Bp8Myj54gIY7UmcALYmnoM_HTuVC-Ful_AzV9T8O5LGKK0TZpbrjjvhoTSomTlSblYpVXWd72IwW-AMK-iAj6vK1lNLGGysmVeDGmdp-gscX4GY_j5dGRzpvosEPiql3pqmoyd4MXAsw5Ix6yOpPbxkXgmRkR-JRmR9SWspJBRfi__xw1Q=w900"
+    },
     {
       "id":8,
-      "name_category": "aesthetic",
+      "name_category": "Aesthetic",
       "title":"FIRE PHOTOSHOOT",
       "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-FG3iidglecp-_Vfi8ldZF3sY2ya9sVhYqt6-2d-Z2Mup7uIRw9F1oGnKqxO4xRJl0uHsEQigDsjAVPgxWA_4PuCJrziRRwfwoh0CVJ1surES5Yg2S7mWQcmDhdzt1w7y-dnPs9sGMnZ0eaaAnItsFQmaotxSTA3KpOWGTXyIdHoGcSO1LOcVIrBzMg/w900/Fire%20Photoshoot%20(4).jpg"
     },
     {
       "id":7,
-      "name_category": "warriors",
+      "name_category": "Warriors",
       "title":"ALIEN TIGER WARRIORS",
       "image":"https://blogger.googleusercontent.com/img/a/AVvXsEh59zPkUyavMW_rcprY-CCDTqSrpAsLTxvERPBowxa8NWmAQi4QxU2L5Yt6HFqQyaBUb-DlJHnGsIFdh_cKHF7i_avgEbp7919kBMLwO3BKaVL5dtc6BPOiD7FZm7pbCJ7aR916F4fSIMWX3esuoKvcqv2yY7TIYJbtteNbhnLWRbCKR9_GWD7RFGwLKQ=w900"
     },
      {
       "id":6,
-      "name_category": "fantasy",
+      "name_category": "Fantasy",
       "title":"ETHEREAL QUIDDITCH BALLS",
       "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHYckPvm0V6IGkfDRXOiGXmwAFCKPGGHFtUpPbUD9_fzodJYp21rssH6JY6f3e4YAvlqLbMKq_9_CMAKTDxnUhm_2Cy5pBFZivOOMkm479hF5N9nMhvLLzzX9vJIDjdzBKGWi4Z-lAYI11ZI9zEpiXXgGE-5KpHd3FAvuAeUCg-7eSsczRrcVcsTbphA/w900/Ethereal%20Quidditch%20Balls%20(2).jpg"
     },
     {
       "id":5,
-      "name_category": "cyborg",
+      "name_category": "Cyborg",
       "title":"CYBERPUNK LIONS",
       "image":"https://blogger.googleusercontent.com/img/a/AVvXsEhClCEa68buJeofkugYqCczXYJyYF2mq4AR3XZhZCcEE9bVQP7muTdXIjO_GXTpG6PcXS_v7-N2Qo0RpPb-U5tqjc7VCF5wTz-_dABjpFeY254oJVLY9xsKyoHoM50zr3BSm67GpW3JTtCm_lG9_CX9qVplV12NLNJB9-dSkJjW78OfNV0UEWFikFIWIQ=w900"
     },
     {
       "id":4,
-      "name_category": "nature",
+      "name_category": "Nature",
       "title":"DARK CITY OF THE MOON",
       "image":"https://blogger.googleusercontent.com/img/a/AVvXsEgu0gEaDwYwfcYtxUI-2X9TVEWYCs2THDEzTj7VqvcK62_GqzpyvK9Bhwn53h3EL5B5dtQCKCXO9IefgGBXMmzHHPXjnyh9oxw-UPbx8U3f_bJ6N0Ity3Cyhwv_vrvs4Gh7Xi4cJr5ozyRSvArwxgYt1wGEbx6-uOo7EXsUBl8yDAxtzLUSi_0ZULTLlg=w900"
     },
     {
       "id":1,
-      "name_category": "animal",
+      "name_category": "Animal",
       "title":"ANIMAL WIZARDS",
       "image":"https://blogger.googleusercontent.com/img/a/AVvXsEjlKdIOKcP_4mcy-cMEpXNOEtcsOl5QTiNO6hOMQ3GqSxcAybZnA9d2Qc86o7Iwanh2dufyD2VKoEfWwygAH19S8stu6O39XoN0ym78d_H12l4EVvIBmPrNNnHqne2UrCiBqqLPVpJLBSE5-5VD-AU8VqoOnOu2OFUmJML61B0PbXKDKID5DcmCgtZpag=w900"
     },
     {
       "id": 2,
-      "name_category": "artistic",
+      "name_category": "Artistic",
       "title": "ABANDONED SHIPS",
       "image": "https://blogger.googleusercontent.com/img/a/AVvXsEhowSVv1AESZhSVK5ay5IKhIpqfv83DCweTcQvmAXp1CXRYx4lUEnK40_LUujxATqKrpLUbYgd_7oYhQeN6d_Zv-3vCB_eORnq96vGqAmlyzGfBNVsf-WGgYGFvnrKtnmEXj8HBwXV6LITQ-oMcoO3QserTgGyV-QBSMzOzqByJVvZm_hVXADOP7wkH-g=w900"
     },
     {
       "id":3,
-      "name_category": "chibi",
+      "name_category": "Chibi",
       "title":"ADVENTURER CHIBI’S",
       "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsGriIHD1hljZkCYPl6I3zpkza9cJkjsZ3DsXyY_IHaHerEP_Yhwcrb0zKSe87DHGHsinjDMXE8t3IFVNZsV5hMgoU6OOAdVdqBrtQswCGFIKyHrOSxIQQrmwIp5BDavtMsmNVre447oggmuImLjbeDXOCEZmK3oqZImjuFJlsAiMhG35_H-LsTV45mw/w900/Adventurer%20Chibi%E2%80%99s%20(3).jpg"
     }
