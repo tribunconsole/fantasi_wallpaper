@@ -59,105 +59,105 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Nature",
-      "image": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/315763412_645379427126999_8924198090091677471_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=mMlnWaWNjMEAX-lkxDa&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=Mjk3Mjk4NTg1MDY2NzMxNTgwMg%3D%3D.2-ccb7-5&oh=00_AfAwZptWybzfTyEuDrLcEqgkxO_qeBMZk7jQBpMmL2osGw&oe=63B80C21&_nc_sid=6136e7"
+      "name_category": "nature",
+      "image": "https://blogger.googleusercontent.com/img/a/AVvXsEgu0gEaDwYwfcYtxUI-2X9TVEWYCs2THDEzTj7VqvcK62_GqzpyvK9Bhwn53h3EL5B5dtQCKCXO9IefgGBXMmzHHPXjnyh9oxw-UPbx8U3f_bJ6N0Ity3Cyhwv_vrvs4Gh7Xi4cJr5ozyRSvArwxgYt1wGEbx6-uOo7EXsUBl8yDAxtzLUSi_0ZULTLlg=w900"
 
     },
     {
       "id": 2,
-      "name_category": "Animal",
-      "image": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/323183904_3040817612892242_7912463096282380834_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=6leaCG_9hyUAX_FgRDy&tn=FPS4t7JYcjIs0Qbs&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=MzAwNjI5MjE2NTI0OTYzNjcwMg%3D%3D.2-ccb7-5&oh=00_AfA7PC7cKRP_03XkvzM3B82rZKb6_xNYvjRcZTfKusYXHg&oe=63B84568&_nc_sid=1527a3"
+      "name_category": "animal",
+      "image": "https://blogger.googleusercontent.com/img/a/AVvXsEjlKdIOKcP_4mcy-cMEpXNOEtcsOl5QTiNO6hOMQ3GqSxcAybZnA9d2Qc86o7Iwanh2dufyD2VKoEfWwygAH19S8stu6O39XoN0ym78d_H12l4EVvIBmPrNNnHqne2UrCiBqqLPVpJLBSE5-5VD-AU8VqoOnOu2OFUmJML61B0PbXKDKID5DcmCgtZpag=w900"
 
     },
     {
       "id": 3,
-      "name_category": "Aesthetic",
-      "image": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/312276405_142937904864861_419894358845326599_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=m72YkSrqpYkAX-Hz1Yl&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=Mjk1NTU0NTIwMTUzNzQxMjM3MQ%3D%3D.2-ccb7-5&oh=00_AfA2_-BUAPiINq7h4iOvc_j4PwcU69g97sh4rt4IpD1lSg&oe=63B7BCB5&_nc_sid=6136e7"
+      "name_category": "aesthetic",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-FG3iidglecp-_Vfi8ldZF3sY2ya9sVhYqt6-2d-Z2Mup7uIRw9F1oGnKqxO4xRJl0uHsEQigDsjAVPgxWA_4PuCJrziRRwfwoh0CVJ1surES5Yg2S7mWQcmDhdzt1w7y-dnPs9sGMnZ0eaaAnItsFQmaotxSTA3KpOWGTXyIdHoGcSO1LOcVIrBzMg/w900/Fire%20Photoshoot%20(4).jpg"
 
     },
     {
       "id": 4,
-      "name_category": "Artistic",
-      "image": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/321146697_1520773725068708_8415315297770893608_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=2MwB3Z_tz9gAX-5Xrrj&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=Mjk5NzU3Mjk0MjA3NTU1Mzc0Ng%3D%3D.2-ccb7-5&oh=00_AfCwP-p3uJo0Ymxxni595xFIZbjbSRsCQpjfv6o4EpKnPA&oe=63B81CD9&_nc_sid=6136e7"
+      "name_category": "artistic",
+      "image": "https://blogger.googleusercontent.com/img/a/AVvXsEhowSVv1AESZhSVK5ay5IKhIpqfv83DCweTcQvmAXp1CXRYx4lUEnK40_LUujxATqKrpLUbYgd_7oYhQeN6d_Zv-3vCB_eORnq96vGqAmlyzGfBNVsf-WGgYGFvnrKtnmEXj8HBwXV6LITQ-oMcoO3QserTgGyV-QBSMzOzqByJVvZm_hVXADOP7wkH-g=w900"
 
-    }   
+    },
+    {
+      "id": 5,
+      "name_category": "chibi",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsGriIHD1hljZkCYPl6I3zpkza9cJkjsZ3DsXyY_IHaHerEP_Yhwcrb0zKSe87DHGHsinjDMXE8t3IFVNZsV5hMgoU6OOAdVdqBrtQswCGFIKyHrOSxIQQrmwIp5BDavtMsmNVre447oggmuImLjbeDXOCEZmK3oqZImjuFJlsAiMhG35_H-LsTV45mw/w900/Adventurer%20Chibi%E2%80%99s%20(3).jpg"
+
+    },
+    {
+      "id": 6,
+      "name_category": "cyborg",
+      "image": "https://blogger.googleusercontent.com/img/a/AVvXsEhClCEa68buJeofkugYqCczXYJyYF2mq4AR3XZhZCcEE9bVQP7muTdXIjO_GXTpG6PcXS_v7-N2Qo0RpPb-U5tqjc7VCF5wTz-_dABjpFeY254oJVLY9xsKyoHoM50zr3BSm67GpW3JTtCm_lG9_CX9qVplV12NLNJB9-dSkJjW78OfNV0UEWFikFIWIQ=w900"
+
+    },
+    {
+      "id": 7,
+      "name_category": "fantasy",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHYckPvm0V6IGkfDRXOiGXmwAFCKPGGHFtUpPbUD9_fzodJYp21rssH6JY6f3e4YAvlqLbMKq_9_CMAKTDxnUhm_2Cy5pBFZivOOMkm479hF5N9nMhvLLzzX9vJIDjdzBKGWi4Z-lAYI11ZI9zEpiXXgGE-5KpHd3FAvuAeUCg-7eSsczRrcVcsTbphA/w900/Ethereal%20Quidditch%20Balls%20(2).jpg"
+
+    },
+    {
+      "id": 8,
+      "name_category": "warriors",
+      "image": "https://blogger.googleusercontent.com/img/a/AVvXsEh59zPkUyavMW_rcprY-CCDTqSrpAsLTxvERPBowxa8NWmAQi4QxU2L5Yt6HFqQyaBUb-DlJHnGsIFdh_cKHF7i_avgEbp7919kBMLwO3BKaVL5dtc6BPOiD7FZm7pbCJ7aR916F4fSIMWX3esuoKvcqv2yY7TIYJbtteNbhnLWRbCKR9_GWD7RFGwLKQ=w900"
+
+    }  
+    
     
   ],
 
   "Data":
   [
-     {
-      "id":1,
-      "name_category": "Artistic",
-      "title":"Loki Chibis",
-      "image":"https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/320975240_1780392002330537_181617986483713841_n.jpg?stp=dst-jpg_e35_p720x720&_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=KdYcwDPAfP8AX8GEphu&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=Mjk5NzU3Mjk0MTg5OTQ1NDY2Mg%3D%3D.2-ccb7-5&oh=00_AfCteqQlsdf7sLowcr4gCGz1w_pCFt-mt5BA1-M5jQ14-Q&oe=63B6DFDE&_nc_sid=6136e7"
-    },
     {
-      "id": 2,
-      "name_category": "Artistic",
-      "title": "Loki Chibis",
-      "image": "https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/321146697_1520773725068708_8415315297770893608_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=2MwB3Z_tz9gAX-5Xrrj&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=Mjk5NzU3Mjk0MjA3NTU1Mzc0Ng%3D%3D.2-ccb7-5&oh=00_AfCwP-p3uJo0Ymxxni595xFIZbjbSRsCQpjfv6o4EpKnPA&oe=63B81CD9&_nc_sid=6136e7"
-    },
-    {
-      "id":3,
-      "name_category": "Artistic",
-      "title":"Loki Chibis",
-      "image":"https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/320962676_1101072357959564_2892253446949695581_n.jpg?stp=dst-jpg_e35_p720x720&_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=YiVwFrYXcTgAX9fGd4Z&tn=FPS4t7JYcjIs0Qbs&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=Mjk5NzU3Mjk0MTkwNzg3MzcyOQ%3D%3D.2-ccb7-5&oh=00_AfC6pE5-Zpg3HLMZJ6QG56ffH1VflG0X_tZJYPgkQp5CUA&oe=63B876E6&_nc_sid=6136e7"
-    },
-    {
-      "id":4,
-      "name_category": "Artistic",
-      "title":"Loki Chibis",
-      "image":"https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/320742365_1204541333477158_8706296955050434734_n.jpg?stp=dst-jpg_e35_p720x720&_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=BIIfTtsi3XoAX9ksxI9&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=Mjk5NzU3Mjk0MjAzMzgxMDQ2NQ%3D%3D.2-ccb7-5&oh=00_AfBNAe-l9jZ50FRYPqoVdHNuE8s0DC2RpQpGnFOfEPQ9kg&oe=63B7897A&_nc_sid=6136e7"
-    }
-  ,
-    {
-      "id":5,
-      "name_category": "Nature",
-      "title":"Dreamscapes",
-      "image":"https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/315777219_841806630277036_5675838913514566603_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=2-zZAmiyUoEAX-tzja0&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=Mjk3Mjk4NTg1MDQ5OTUzNzAxOQ%3D%3D.2-ccb7-5&oh=00_AfCJet1_bER4FV7JucRyZak0nmkl_cEeWNl_BEyrKlVdQA&oe=63B7ABF9&_nc_sid=6136e7"
-    },
-    {
-      "id":6,
-      "name_category": "Nature",
-      "title":"Dreamscapes",
-      "image":"https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/315763412_645379427126999_8924198090091677471_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=mMlnWaWNjMEAX-lkxDa&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=Mjk3Mjk4NTg1MDY2NzMxNTgwMg%3D%3D.2-ccb7-5&oh=00_AfAwZptWybzfTyEuDrLcEqgkxO_qeBMZk7jQBpMmL2osGw&oe=63B80C21&_nc_sid=6136e7"
+      "id":8,
+      "name_category": "aesthetic",
+      "title":"FIRE PHOTOSHOOT",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-FG3iidglecp-_Vfi8ldZF3sY2ya9sVhYqt6-2d-Z2Mup7uIRw9F1oGnKqxO4xRJl0uHsEQigDsjAVPgxWA_4PuCJrziRRwfwoh0CVJ1surES5Yg2S7mWQcmDhdzt1w7y-dnPs9sGMnZ0eaaAnItsFQmaotxSTA3KpOWGTXyIdHoGcSO1LOcVIrBzMg/w900/Fire%20Photoshoot%20(4).jpg"
     },
     {
       "id":7,
-      "name_category": "Animal",
-      "title":"Super Cat",
-      "image":"https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/323712845_819193139180510_6370513959104240681_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=6qCl1L96O7oAX_6Kxwz&tn=FPS4t7JYcjIs0Qbs&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=MzAwNjI5MjE2NTI1Nzg2MTA3MQ%3D%3D.2-ccb7-5&oh=00_AfB9P-YswSv-PVQo2NVCWP0Xj9ApbvK0hHPEVyuMoIf6YA&oe=63B81600&_nc_sid=1527a3"
+      "name_category": "warriors",
+      "title":"ALIEN TIGER WARRIORS",
+      "image":"https://blogger.googleusercontent.com/img/a/AVvXsEh59zPkUyavMW_rcprY-CCDTqSrpAsLTxvERPBowxa8NWmAQi4QxU2L5Yt6HFqQyaBUb-DlJHnGsIFdh_cKHF7i_avgEbp7919kBMLwO3BKaVL5dtc6BPOiD7FZm7pbCJ7aR916F4fSIMWX3esuoKvcqv2yY7TIYJbtteNbhnLWRbCKR9_GWD7RFGwLKQ=w900"
     },
-    {
-      "id":8,
-      "name_category": "Animal",
-      "title":"Super Cat",
-      "image":"https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/323183904_3040817612892242_7912463096282380834_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=6leaCG_9hyUAX_FgRDy&tn=FPS4t7JYcjIs0Qbs&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=MzAwNjI5MjE2NTI0OTYzNjcwMg%3D%3D.2-ccb7-5&oh=00_AfA7PC7cKRP_03XkvzM3B82rZKb6_xNYvjRcZTfKusYXHg&oe=63B84568&_nc_sid=1527a3"
-    },
-    {
-      "id":9,
-      "name_category": "Aesthetic",
-      "title":"Forest Dragons",
-      "image":"https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/312276405_142937904864861_419894358845326599_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=m72YkSrqpYkAX-Hz1Yl&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=Mjk1NTU0NTIwMTUzNzQxMjM3MQ%3D%3D.2-ccb7-5&oh=00_AfA2_-BUAPiINq7h4iOvc_j4PwcU69g97sh4rt4IpD1lSg&oe=63B7BCB5&_nc_sid=6136e7"
-    }, 
      {
-      "id":10,
-      "name_category": "Aesthetic",
-      "title":"Forest Bulbs",
-      "image":"https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/307808554_1029219091098333_1543217553276058286_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=RhRQ7rCj9WcAX8MByDI&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=MjkzMTYyNTQ4NTg0NDU1NzM2OQ%3D%3D.2-ccb7-5&oh=00_AfCtB16Dfv46hVOoMKDcWGhs6Z8-1LTT8hcXn9zLvWsuyQ&oe=63B82DDA&_nc_sid=6136e7 "
+      "id":6,
+      "name_category": "fantasy",
+      "title":"ETHEREAL QUIDDITCH BALLS",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHYckPvm0V6IGkfDRXOiGXmwAFCKPGGHFtUpPbUD9_fzodJYp21rssH6JY6f3e4YAvlqLbMKq_9_CMAKTDxnUhm_2Cy5pBFZivOOMkm479hF5N9nMhvLLzzX9vJIDjdzBKGWi4Z-lAYI11ZI9zEpiXXgGE-5KpHd3FAvuAeUCg-7eSsczRrcVcsTbphA/w900/Ethereal%20Quidditch%20Balls%20(2).jpg"
     },
     {
-      "id":11,
-      "name_category": "Nature",
-      "title":"Forest Bulbs",
-      "image":"https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/307633531_1034713347221139_6890819762553337826_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=y33GOlNhYGQAX8tPcEx&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=MjkzMTYyNTQ4NTgzNjA3NjAxMg%3D%3D.2-ccb7-5&oh=00_AfBBOuHyAp9LeBbQf5FNyFCx7Wo-_P7YmpdCgTXtmgKtvA&oe=63B73822&_nc_sid=6136e7"
+      "id":5,
+      "name_category": "cyborg",
+      "title":"CYBERPUNK LIONS",
+      "image":"https://blogger.googleusercontent.com/img/a/AVvXsEhClCEa68buJeofkugYqCczXYJyYF2mq4AR3XZhZCcEE9bVQP7muTdXIjO_GXTpG6PcXS_v7-N2Qo0RpPb-U5tqjc7VCF5wTz-_dABjpFeY254oJVLY9xsKyoHoM50zr3BSm67GpW3JTtCm_lG9_CX9qVplV12NLNJB9-dSkJjW78OfNV0UEWFikFIWIQ=w900"
     },
     {
-      "id":12,
-      "name_category": "Nature",
-      "title":"Pirate Ships",
-      "image":"https://instagram.fjog3-1.fna.fbcdn.net/v/t51.2885-15/309283875_652642126183255_2729596862836707509_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fjog3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=12cPHebbCs0AX-Qw4pK&tn=FPS4t7JYcjIs0Qbs&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=MjkzODE0NjA1MjQ2OTE3MTkxNg%3D%3D.2-ccb7-5&oh=00_AfBfHKd2ReGHhlQn7mwQL1o5pZLgIsPBN5eFG_dmvdMLNw&oe=63B7C322&_nc_sid=6136e7"
-    }    
+      "id":4,
+      "name_category": "nature",
+      "title":"DARK CITY OF THE MOON",
+      "image":"https://blogger.googleusercontent.com/img/a/AVvXsEgu0gEaDwYwfcYtxUI-2X9TVEWYCs2THDEzTj7VqvcK62_GqzpyvK9Bhwn53h3EL5B5dtQCKCXO9IefgGBXMmzHHPXjnyh9oxw-UPbx8U3f_bJ6N0Ity3Cyhwv_vrvs4Gh7Xi4cJr5ozyRSvArwxgYt1wGEbx6-uOo7EXsUBl8yDAxtzLUSi_0ZULTLlg=w900"
+    },
+    {
+      "id":1,
+      "name_category": "animal",
+      "title":"ANIMAL WIZARDS",
+      "image":"https://blogger.googleusercontent.com/img/a/AVvXsEjlKdIOKcP_4mcy-cMEpXNOEtcsOl5QTiNO6hOMQ3GqSxcAybZnA9d2Qc86o7Iwanh2dufyD2VKoEfWwygAH19S8stu6O39XoN0ym78d_H12l4EVvIBmPrNNnHqne2UrCiBqqLPVpJLBSE5-5VD-AU8VqoOnOu2OFUmJML61B0PbXKDKID5DcmCgtZpag=w900"
+    },
+    {
+      "id": 2,
+      "name_category": "artistic",
+      "title": "ABANDONED SHIPS",
+      "image": "https://blogger.googleusercontent.com/img/a/AVvXsEhowSVv1AESZhSVK5ay5IKhIpqfv83DCweTcQvmAXp1CXRYx4lUEnK40_LUujxATqKrpLUbYgd_7oYhQeN6d_Zv-3vCB_eORnq96vGqAmlyzGfBNVsf-WGgYGFvnrKtnmEXj8HBwXV6LITQ-oMcoO3QserTgGyV-QBSMzOzqByJVvZm_hVXADOP7wkH-g=w900"
+    },
+    {
+      "id":3,
+      "name_category": "chibi",
+      "title":"ADVENTURER CHIBI’S",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsGriIHD1hljZkCYPl6I3zpkza9cJkjsZ3DsXyY_IHaHerEP_Yhwcrb0zKSe87DHGHsinjDMXE8t3IFVNZsV5hMgoU6OOAdVdqBrtQswCGFIKyHrOSxIQQrmwIp5BDavtMsmNVre447oggmuImLjbeDXOCEZmK3oqZImjuFJlsAiMhG35_H-LsTV45mw/w900/Adventurer%20Chibi%E2%80%99s%20(3).jpg"
+    }
   ]
 }
