@@ -111,6 +111,43 @@
 
   "Data":
   [ 
+
+    {
+      "id":36,
+      "name_category": "Animal",
+      "title":"ANIMAL WIZARDS",
+      "image":"https://blogger.googleusercontent.com/img/a/AVvXsEhGtRv5ndMe8D_vSuMNBGiLUlxfL4FBQ9T82wxPFyfWmgbdzZKWSgsn0Gwt4QCRd7apY9Asx3Qk98BM9_2Jg_91cbu2PIRDR4EmUhMw_v8Hy6e0jj3A__hUxV7fHvMulMOP-Tp69ZEs_yyH-dU4L4R_V-ASL2Ylz2IC1P9nFt47BoxKrvwBjm10Ts-TNg=w900"
+    },
+    {
+      "id":35,
+      "name_category": "Animal",
+      "title":"ANIMAL WIZARDS",
+      "image":"https://blogger.googleusercontent.com/img/a/AVvXsEgUs7egjF59Ja_LwoBXzF9Qqg8w0d66aAeMqPMLyq6fY06Zc7g35BYS9pMvf9SDN6x0prWmRvdFZYlUsfz_eRaFB4mrBhkvAYFio6oT23SVoDaXRdhCEE93KEKQZzGeYFiGPDHasj3_BppI4rypXR803ASClgp3TTkng4LCcYo9gSRsrS1i_FznOCAa6w=w900"
+    },
+    {
+      "id":34,
+      "name_category": "Animal",
+      "title":"ANIMAL WIZARDS",
+      "image":"https://blogger.googleusercontent.com/img/a/AVvXsEiOvW070sMkGvEdf4C3AGLn_Gl06Uspj-_jp-vNU-3xZiJY7_RWUPaNRNudVg9YSvDO3IF0-AA-xuJIt0pNGlLJkrAQsUcmX7uSruTttnDZ0VIUVLGZ8PDqvHmbcNK2d-heQCFa-iRfgv5LhQTWoGtftJJ02UkEUFvt8PFPUzCjggsPXWy-5aXyQSSFSw=w900"
+    },
+    {
+      "id":33,
+      "name_category": "Animal",
+      "title":"ANIMAL WIZARDS",
+      "image":"https://blogger.googleusercontent.com/img/a/AVvXsEi5xKvmiFp6NqoZoBcDs0A3qUp4Gfv7mYAP67pKmXqtGB0HDvgAuKREuLputXVYyh8GbHOsiTRxiKqvtp3_GmY1VjihS2GDtPDnfxfdtDRq2LKYH7dC3YY3CN5uR3q-Mz80MLEUnu42XF4sc6m3-PbDh16mXWMkMQIwqra8fBDQ04nG-k4X1XmFa6CmPg=w900"
+    },
+    {
+      "id":32,
+      "name_category": "Animal",
+      "title":"ANIMAL WIZARDS",
+      "image":"https://blogger.googleusercontent.com/img/a/AVvXsEh7GRjNdh8YV9vqTw9o72yvUc3ml2I73Q8TDZNt37RNrxsMmWL1WgkYFFZat83ASa6n5iYBcCI4v3jYByJ45-1Ibi71O6UnS0iLBymK-D6v3b-LRlMZH2AGQl1KJuPB8rr47YTyNagNbE57Hlwf8AgolnLLiOxIdbrxB2gw6WR9z0niWH6hJK27fTU-6A=w900"
+    },
+    {
+      "id":31,
+      "name_category": "Animal",
+      "title":"ANIMAL WIZARDS",
+      "image":"https://blogger.googleusercontent.com/img/a/AVvXsEi7FmABayQXn7GMnchFPTuN_PXKcT4DPig7pKS25UbTEdW1Y-mpNYpGfuQVW_NNqWN4QODhCA4-CtOOkRwq9ZllvjBeYSt875KFbZWBpsusyaC4IP2b7NJn2R1nNHMpZ_D4ktAZRY45qeGSuPJvxT9FEMC1Qf4unkkp-4LT5Jy1sV6Hnqil601r-8_BwQ=w900"
+    },
     {
       "id":30,
       "name_category": "Warriors",
